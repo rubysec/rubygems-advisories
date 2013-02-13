@@ -1,0 +1,1 @@
+require 'rubygems/advisories/version'

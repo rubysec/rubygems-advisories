@@ -1,0 +1,15 @@
+name: rubygems-advisories
+summary: API to the ruby-advisory-db
+description: |
+  Provides an API to the ruby-advisory-db. Handles updating and loading
+  the Database.
+
+license: MIT
+authors: Postmodern
+email: postmodern.mod3@gmail.com
+homepage: https://github.com/rubysec/rubygems-advisories#readme
+
+development_dependencies:
+  rspec: ~> 2.4
+  rubygems-tasks: ~> 0.2
+  yard: ~> 0.8
